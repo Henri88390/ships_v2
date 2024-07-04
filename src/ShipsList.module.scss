@@ -1,0 +1,9 @@
+.container {
+  overflow-y: scroll;
+  height: 95vh;
+}
+
+.shipsList {
+  display: flex;
+  flex-direction: column;
+}

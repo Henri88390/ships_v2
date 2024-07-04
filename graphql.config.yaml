@@ -1,0 +1,4 @@
+schema:
+  - https://spacex-production.up.railway.app/:
+      headers:
+        x-hasura-admin-secret: nhost-admin-secret
